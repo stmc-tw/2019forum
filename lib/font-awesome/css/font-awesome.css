@@ -2316,6 +2316,10 @@
 .fa-meetup:before {
   content: "\f2e0";
 }
+.fa-line:before {
+  content: "\f3c0";
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
